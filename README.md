@@ -6,7 +6,7 @@ A blinky board I designed in KiCad for Hack Club Twisted. A 555 timer clocks a C
 
 ## Schematic
 
-<img src="schematic.png" alt="Schematic of the Blinky Board" width="700">
+<img width="1878" height="1301" alt="Screenshot 2026-11-09 200914" src="https://github.com/user-attachments/assets/3d67ea9b-7782-4602-923a-9e218cee1e87" />
 
 ## How it works
 - The NE555P runs as an astable oscillator. The 50 kΩ potentiometer (RV2) changes the speed.
